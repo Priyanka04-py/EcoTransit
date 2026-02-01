@@ -2,6 +2,7 @@
 ## Analysis of Public Transport Usage vs CO₂ Emissions
 
 ### Project Overview
+
 This project analyzes the relationship between public transport usage and CO₂ emissions
 to understand how transportation choices impact environmental sustainability.
 
@@ -17,3 +18,11 @@ https://www.google.com/covid19/mobility/
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+This project analyzes the relationship between public transport usage
+and CO₂ emissions to understand environmental impact.
+
+Download source:
+https://www.google.com/covid19/mobility/
+
+
